@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#101611"/>
+      <stop offset="1" stop-color="#080b0d"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#b8ff36"/>
+      <stop offset="1" stop-color="#78dcff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <g stroke="#ffffff" stroke-opacity=".08">
+    <path d="M90 220H1510M90 400H1510M90 580H1510M90 760H1510"/>
+    <path d="M300 180V780M560 180V780M820 180V780M1080 180V780M1340 180V780"/>
+  </g>
+  <text x="90" y="105" fill="#a8b0a7" font-family="Arial" font-size="20" letter-spacing="5">ANONYMIZED PERFORMANCE / 28 DAY WINDOW</text>
+  <text x="90" y="172" fill="#f4f7f0" font-family="Arial" font-size="58" font-weight="700">1.3M+</text>
+  <text x="340" y="172" fill="#f4f7f0" font-family="Arial" font-size="58" font-weight="700">14K+</text>
+  <text x="575" y="172" fill="#f4f7f0" font-family="Arial" font-size="58" font-weight="700">1.6K+</text>
+  <text x="820" y="172" fill="#b8ff36" font-family="Arial" font-size="58" font-weight="700">12.0%</text>
+  <path d="M90 700L205 670 320 635 440 650 555 570 680 605 800 465 920 520 1030 420 1150 470 1280 260 1400 360 1510 215" fill="none" stroke="url(#line)" stroke-width="8"/>
+  <circle cx="1510" cy="215" r="12" fill="#b8ff36"/>
+</svg>
